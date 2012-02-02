@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/walu/test'
+let g:netrw_dirhist_2='/cnan/passport/webroot/phpsrc/phplib/bdDBProxy'
+let g:netrw_dirhist_3='/cnan/passport/webroot/phpsrc/connect-mis/controller'
+let g:netrw_dirhist_4='/cnan/project/phplib/bdUcrypt'
